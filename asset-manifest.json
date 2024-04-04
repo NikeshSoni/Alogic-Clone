@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NikeshSoni/Alogic-Clone.git/static/css/main.f855e6bc.css",
+    "main.js": "/NikeshSoni/Alogic-Clone.git/static/js/main.c976f22b.js",
+    "static/js/453.cbd8d2e3.chunk.js": "/NikeshSoni/Alogic-Clone.git/static/js/453.cbd8d2e3.chunk.js",
+    "static/media/logo.svg": "/NikeshSoni/Alogic-Clone.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NikeshSoni/Alogic-Clone.git/index.html",
+    "main.f855e6bc.css.map": "/NikeshSoni/Alogic-Clone.git/static/css/main.f855e6bc.css.map",
+    "main.c976f22b.js.map": "/NikeshSoni/Alogic-Clone.git/static/js/main.c976f22b.js.map",
+    "453.cbd8d2e3.chunk.js.map": "/NikeshSoni/Alogic-Clone.git/static/js/453.cbd8d2e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c976f22b.js"
+  ]
+}
